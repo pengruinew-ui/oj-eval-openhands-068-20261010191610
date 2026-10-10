@@ -1,0 +1,10 @@
+CMakeFiles/
+CMakeCache.txt
+Makefile
+code
+*.o
+*.obj
+*.exe
+*.a
+*.so
+*.dll
